@@ -32,7 +32,6 @@
     ---InputAnnotations:  VOC Annotation to calculate mAP for each images.
     ---requirements.txt:   Required packages for inference
     ---label_map_licence.txt:   classes include in this file
-    ---Docx.txt:   Details and steps involved in assignment
     ---exported-model_ssd_fpn : Trained model dir
 
 	$ pip3 install -r requirements.txt

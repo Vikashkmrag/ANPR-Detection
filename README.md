@@ -20,7 +20,7 @@
 
 ## More:
 	Other smaller network can be tried if higher fps is needed such as SSDMobileNetV1,SSDMobileNetV2
-	Models can be quantised and converted to tflite for much faster inference, can also be used in raspberrypi.
+	Model can be further quantised and converted to tflite for much faster inference, can also be used in raspberrypi.
 
 
 ## Steps:

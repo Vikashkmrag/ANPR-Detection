@@ -23,7 +23,7 @@
 	Models can be quantised and converted to tflite for much faster inference, can also be used in raspberrypi.
 
 
-Steps:
+## Steps:
 
     $ git clone https://github.com/Vikashkmrag/ANPR-Detection.git
     ---Input:  Input Images (34 images randomly taken fom validation set).

@@ -22,7 +22,7 @@ More:
 
 Steps:
 
-        $git clone https://github.com/Vikashkmrag/ANPR-Detection.git
+    $git clone https://github.com/Vikashkmrag/ANPR-Detection.git
     ---Input:  Input Images (34 images randomly taken fom validation set).
     ---Output:  Model output with bbox on them.
     ---ANPR-Detection.ipynb: Jupyter notebook for inference.

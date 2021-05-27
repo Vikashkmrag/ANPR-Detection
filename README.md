@@ -4,7 +4,7 @@
      style="float: center; margin-top: 10px;" />
 
 ## DataSet:
-	Found that only one number plate is annotate in case image containing more than 1 number plate.
+	Found that only one number plate is annotated in case image containing more than 1 number plate.
 	Use Augmentation such as shear, flip, rotate, hsv to create five times data as given.
 
 ## Training:
@@ -33,6 +33,7 @@
     ---requirements.txt:   Required packages for inference
     ---label_map_licence.txt:   classes include in this file
     ---Docx.txt:   Details and steps involved in assignment
+    ---exported-model_ssd_fpn : Trained model dir
 
 	$ pip3 install -r requirements.txt
 	$ jupyter notebook

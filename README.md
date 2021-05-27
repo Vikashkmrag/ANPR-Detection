@@ -5,7 +5,7 @@
 
 ## DataSet:
 	Found that only one number plate is annotated in case image containing more than 1 number plate.
-	Use Augmentation such as shear, flip, rotate, hsv to create five times data as given.
+	Used Augmentation such as shear, flip, rotate, hsv to create five times data as given.
 
 ## Training:
 	Used tensorflow object detection api to train model.

@@ -1,5 +1,5 @@
 # ANPR-Detection
-<img src="output/car_460.jpg"
+<img src="Output/car_460.jpg"
      alt="Result"
      style="float: center; margin-top: 10px;" />
 

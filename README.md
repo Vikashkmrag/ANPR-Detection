@@ -1,4 +1,7 @@
 # ANPR-Detection
+<img src="output/car_460.jpg"
+     alt="Result"
+     style="float: center; margin-top: 10px;" />
 
 DataSet:
 	Found that only one number plate is annotate in case image containing more than 1 number plate.

@@ -4,7 +4,7 @@
      style="float: center; margin-top: 10px;" />
 
 ## DataSet:
-	Found that only one number plate is annotated in case image containing more than 1 number plate.
+	Around 700 images used for training and validation of model.
 	Used Augmentation such as shear, flip, rotate, hsv to create five times data as given.
 
 ## Training:
